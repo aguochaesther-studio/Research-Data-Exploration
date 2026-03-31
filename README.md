@@ -18,7 +18,3 @@ Joins were used to combine related tables and gain deeper insights. Conditional 
 
 Conclusion
 This project highlights my ability to work with databases, write efficient queries, and approach data with a problem solving mindset. It reflects my growing skills in data analysis and my interest in turning data into useful insights that can inform decisions.
-
-
-
-If you want to level this up further, the next step is adding a short **“Key Findings”** section based on your actual results, that’s what really catches attention on GitHub.
